@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "iPhone 15",
+      "price": 999.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 15 Pro",
+      "price": 499.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iWatch series 9",
+      "price": 39.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 15 Pro Max",
+      "price": 79.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 5,
+      "name": "AirPods",
+      "price": 49.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 6,
+      "name": "iMac",
+      "price": 49.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Mac Studio",
+      "price": 999.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 8,
+      "name": "AirPods Max",
+      "price": 499.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Apple Vision Pro",
+      "price": 39.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mac Display Original",
+      "price": 79.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Apple Keyboard",
+      "price": 49.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    },
+    {
+      "id": 12,
+      "name": "iPhone 14 Pro Max",
+      "price": 49.99,
+      "category": "Electronics",
+      "brand": "Apple",
+      "img": "https://api.markt.circle.uz/storage/37/conversions/iphone-15-pro-max-thumbnail.jpg"
+    }
+  ]
+  
